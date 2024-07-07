@@ -1,0 +1,17 @@
+Classification Report for LogisticRegression:
+
+0:
+{'precision': 0.8862489520223991, 'recall': 0.9872422907488987, 'f1-score': 0.9340235231355289, 'support': 56750.0}
+
+1:
+{'precision': 0.9856659209249836, 'recall': 0.8737889637742208, 'f1-score': 0.926361817928083, 'support': 56976.0}
+
+accuracy:
+0.9304028981939046
+
+macro avg:
+{'precision': 0.9359574364736913, 'recall': 0.9305156272615598, 'f1-score': 0.930192670531806, 'support': 113726.0}
+
+weighted avg:
+{'precision': 0.9360562187880784, 'recall': 0.9304028981939046, 'f1-score': 0.9301850577371201, 'support': 113726.0}
+

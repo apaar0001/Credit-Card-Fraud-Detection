@@ -1,0 +1,17 @@
+Classification Report for GradientBoosting:
+
+0:
+{'precision': 0.924949358541526, 'recall': 0.9655330396475771, 'f1-score': 0.9448055866885077, 'support': 56750.0}
+
+1:
+{'precision': 0.9641008699482436, 'recall': 0.9219671440606572, 'f1-score': 0.9425633848307047, 'support': 56976.0}
+
+accuracy:
+0.9437068040729473
+
+macro avg:
+{'precision': 0.9445251142448848, 'recall': 0.9437500918541171, 'f1-score': 0.9436844857596062, 'support': 113726.0}
+
+weighted avg:
+{'precision': 0.9445640158222633, 'recall': 0.9437068040729473, 'f1-score': 0.9436822578714369, 'support': 113726.0}
+

@@ -1,0 +1,17 @@
+Classification Report for NearestCentroid:
+
+0:
+{'precision': 0.7882114273010227, 'recall': 0.9995770925110132, 'f1-score': 0.8813996488447614, 'support': 56750.0}
+
+1:
+{'precision': 0.9994252598304516, 'recall': 0.7324838528503229, 'f1-score': 0.8453825429943079, 'support': 56976.0}
+
+accuracy:
+0.8657650845013454
+
+macro avg:
+{'precision': 0.8938183435657372, 'recall': 0.866030472680668, 'f1-score': 0.8633910959195347, 'support': 113726.0}
+
+weighted avg:
+{'precision': 0.8940282090589033, 'recall': 0.8657650845013454, 'f1-score': 0.8633553087384054, 'support': 113726.0}
+

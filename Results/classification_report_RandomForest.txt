@@ -1,0 +1,17 @@
+Classification Report for RandomForest:
+
+0:
+{'precision': 0.9544186691152267, 'recall': 0.9707488986784141, 'f1-score': 0.9625145233290527, 'support': 56750.0}
+
+1:
+{'precision': 0.9703597893045264, 'recall': 0.9538226621735467, 'f1-score': 0.9620201626822209, 'support': 56976.0}
+
+accuracy:
+0.9622689622425831
+
+macro avg:
+{'precision': 0.9623892292098766, 'recall': 0.9622857804259803, 'f1-score': 0.9622673430056368, 'support': 113726.0}
+
+weighted avg:
+{'precision': 0.9624050685657088, 'recall': 0.9622689622425831, 'f1-score': 0.962266851800872, 'support': 113726.0}
+
